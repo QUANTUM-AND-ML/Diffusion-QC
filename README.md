@@ -32,5 +32,5 @@
 
 
 
-## Quantum & Machine Learning
-Relevant scripts and data for the paper entitled "[**Low-depth Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection in Massive MIMO**](https://link.springer.com/article/10.1007/s11128-025-04896-2)"
+## Diffusion & Quantum Computation
+Relevant code for target-oriented generative quantum circuit design.
