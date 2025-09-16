@@ -7,8 +7,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/QUANTUM-AND-ML/QAOA-ML-Detection/blob/main/LICENSE">
-        <img alt="MIT License" src="https://img.shields.io/github/license/QUANTUM-AND-ML/QAOA-ML-Detection">
+    <a href="https://github.com/QUANTUM-AND-ML/Diffusion-QC/blob/main/LICENSE">
+        <img alt="MIT License" src="https://img.shields.io/github/license/QUANTUM-AND-ML/Diffusion-QC">
     </a>
     <a href="https://www.python.org/downloads/release/python-3813/">
         <img alt="Version" src="https://img.shields.io/badge/Python-3.8-orange">
