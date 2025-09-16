@@ -16,8 +16,8 @@
     <a href="https://github.com/search?q=repo%3AQUANTUM-AND-ML%2FQAOA-ML-Detection++language%3APython&type=code">
         <img alt="Language" src="https://img.shields.io/github/languages/top/QUANTUM-AND-ML/QAOA-ML-Detection">
     </a>
-   <a href="https://github.com/QUANTUM-AND-ML/QAOA-ML-Detection/activity">
-        <img alt="Activity" src="https://img.shields.io/github/last-commit/QUANTUM-AND-ML/QAOA-ML-Detection">
+   <a href="https://github.com/QUANTUM-AND-ML/Diffusion-QC/activity">
+        <img alt="Activity" src="https://img.shields.io/github/last-commit/QUANTUM-AND-ML/Diffusion-QC">
     </a>
        <a href="https://www.nsfc.gov.cn/english/site_1/index.html">
         <img alt="Fund" src="https://img.shields.io/badge/supported%20by-NSFC-green">
